@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+textarea::-webkit-scrollbar {
+  width: 12px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background: #363636;
+  border-radius: 6px;
+}
+
+textarea::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+textarea {
+  scrollbar-width: thin;
+  scrollbar-color: #333 #ccc;
+}
