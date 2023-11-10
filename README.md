@@ -1,4 +1,4 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+![Plasmo Banner](https://www.plasmo.com/assets/banner-black-on-white.png)
 
 ## Getting Started
 
